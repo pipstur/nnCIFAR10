@@ -1,5 +1,7 @@
 # Neural Network Architectures
 
+Note: Seems the formatting in the notebook is kinda off, but I think it's a github problem currently
+
 ## SimpleCNN
 
 The `SimpleCNN` class is a basic Convolutional Neural Network (CNN) for image classification. It consists of three main types of layers:
